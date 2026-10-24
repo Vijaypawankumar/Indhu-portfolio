@@ -11,7 +11,7 @@
 window.SITE = {
   name: "Indhu",
   display: "Indhu",
-  monogram: "I",
+  monogram: "INDHU",
 
   // Your public web address, e.g. "https://yourname.github.io/portfolio". Leave "" until you know it.
   url: "",
@@ -54,8 +54,8 @@ window.SITE = {
   beyond: ["Drawing and sketching", "Travel", "Creative branding and design"],
 
   // ---- Contact (the Contact section stays hidden until you add an email or a link) ----
-  email: "",                        // e.g. "you@example.com"
-  links: [],                        // e.g. [{ label: "LinkedIn", url: "https://www.linkedin.com/in/your-name" }]
+  email: "ms.indhu.ibpsso.gmail.com",                        // e.g. "you@example.com"
+  links: [{ label: "LinkedIn", url: "https://www.linkedin.com/in/indhu-peddinti-ba8386265/" }],                        // e.g. [{ label: "LinkedIn", url: "https://www.linkedin.com/in/your-name" }]
   contactText: "I welcome conversations about research, collaboration on legal writing, and academic or professional opportunities.",
   formEndpoint: "",                 // optional: a free Formspree address, e.g. "https://formspree.io/f/xxxxxxx"
 
